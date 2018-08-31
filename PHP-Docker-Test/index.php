@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 $name = "Carter";
 $name = 3;
 $count = 32;
@@ -21,4 +21,10 @@ function sayHi($who)
 
 	echo "<br><br>x=$x\n";
 	?>
-</html>
+</html> -->
+
+<?php
+include "mylib/Page.php";    
+$page = new mylib\Page();
+$page->generate();
+?>
