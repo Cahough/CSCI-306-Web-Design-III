@@ -9,4 +9,6 @@ Each project/assignment will be a separate branch and will be included in a list
 <ol>
   <li> Docker/PHP Setup </li>
   https://github.com/Cahough/CSCI-306-Web-Design-III/tree/docker_setup
+  <li> Vue </li>
+  https://github.com/Cahough/CSCI-306-Web-Design-III/tree/vue
 </ol>
